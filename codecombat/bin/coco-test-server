@@ -1,0 +1,4 @@
+echo
+echo coco-test-server is deprecated.
+echo Instead, use \"npm run jasmine\" to run server tests
+echo

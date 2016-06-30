@@ -1,0 +1,43 @@
+body {
+	background: #fcc03a;
+}
+
+svg {
+	height: 70vh;
+	position: relative;
+	width: auto;
+	margin: auto;
+	display: block;
+	margin-top: 20vh;
+	overflow: visible;
+}
+
+button {
+	position: fixed;
+	left: 50%;
+	top: 88vh;
+	transform: translate(-50%, -50%);
+	border-radius: 1vh;
+	font-size: 3em;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+#mute {
+	font-size: 1em;
+	left: 5%;
+	transform: translate(0, 0);
+}
+
+.notice {
+	position: fixed;
+	top: 0;
+	left: 0;
+	text-align: center;
+	padding: 1vh;
+	width: 100%;
+	font-size: 1.5em;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-family: Sans-Serif;
+}

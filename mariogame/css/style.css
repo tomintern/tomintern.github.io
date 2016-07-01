@@ -1,0 +1,10 @@
+body{
+   background-image: url("http://www.theoryofgaming.com/wp-content/uploads/2015/02/super_mario_bros_level_1-1.jpg");
+   background-size: 800px 600px;
+}
+
+img{
+   width: 80px;
+   top: 250px;
+   left: 430px;
+}
